@@ -68,3 +68,30 @@ dd{
 .grams{
   font-style: italic;
 }
+
+figure {
+  border: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 1em;
+  margin: 1em;
+  color: #b2a215;
+  background-color: #fffce0;
+}
+figcaption{
+  font-style: italic;
+  color: black;
+  text-align: center;
+}
+img{
+  width: 100%;
+}
+footer{
+  background-color: #ffe524;
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.5rem;
+}
+a{
+  color: #cc3865;
+}
