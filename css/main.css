@@ -7,8 +7,26 @@ h1 {
   color: #b32f52;
   font-weight: normal;
   margin: 0;
-  padding: 0;
   line-height: 1.5;
   font-family: 'Sigmar One', cursive;
   text-align: center;
+  }
+  nav ul {
+    list-style-type: none;
+    padding: 0.5em;
+    margin: 0.5em;
+    text-align: center;
+  }
+  nav li {
+    display: inline;
+  }
+  nav a {
+    display: inline-block;
+    padding: 0.50em 0.50em;
+    margin: 0.05em;
+    background-color: #b32f52;
+    color: white;
+    text-decoration: none;
+    border-radius: 2px;
+    font-family: georgia;
   }
