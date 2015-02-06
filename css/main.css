@@ -24,9 +24,19 @@ h1 {
     display: inline-block;
     padding: 0.50em 0.50em;
     margin: 0.05em;
-    background-color: #b32f52;
+    background-color: #b2a215;
     color: white;
     text-decoration: none;
     border-radius: 2px;
     font-family: georgia;
   }
+a:hover {
+  background-color: #cc3865;
+}
+p {
+  font-family: georgia;
+}
+h2, h3 {
+  font-family:'Sigmar One', cursive;
+  color: #cc3865;  
+}
