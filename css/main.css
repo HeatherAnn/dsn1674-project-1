@@ -35,10 +35,12 @@ a:hover {
 }
 p {
   font-family: georgia;
+  margin: 1rem;
 }
 h2, h3 {
   font-family:'Sigmar One', cursive;
   color: #cc3865;
+  padding: 1rem;
 }
 h2{
   border-top: 3px solid;
@@ -55,6 +57,10 @@ dt{
 }
 dd{
   margin: 0;
+}
+dl{
+  margin: 1rem;
+}
 }
 .quote{
   font-style: italic;
@@ -101,4 +107,7 @@ footer{
 }
 a{
   color: #cc3865;
+}
+body{
+  margin: 0;
 }
