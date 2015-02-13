@@ -56,10 +56,10 @@ dt{
   line-height: 1.5rem;
 }
 dd{
-  margin: 0;
+  padding: 0;
 }
 dl{
-  margin: 1rem;
+  padding: 1rem;
 }
 .quote{
   font-style: italic;
