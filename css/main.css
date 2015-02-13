@@ -110,3 +110,6 @@ a{
 body{
   margin: 0;
 }
+html{
+  padding: 1;
+}
